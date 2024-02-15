@@ -1,4 +1,4 @@
-# HG_ATM Project Readme
+# HG_ATM C# Project Readme
 
 The HG_ATM project is a comprehensive ATM (Automated Teller Machine) system that allows users to perform various banking transactions and provides administrative functions.
 
